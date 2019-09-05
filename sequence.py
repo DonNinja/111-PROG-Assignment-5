@@ -16,4 +16,4 @@ for i in range(0, n):
         n3 = n2
     n2 = n1
     n1 = n_sum
-    print(n_sum, end=", ")
+    print(n_sum)
